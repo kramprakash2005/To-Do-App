@@ -2,7 +2,7 @@
 
 A stylish **To-Do List App** built with **React.js**, featuring a **dark neon theme** and **smooth sliding animations** for task movement.
 
-🔗 **Live Demo:** [To-Do App](https://krampraksh2005.github.io/To-Do-App/)
+🔗 **Live Demo:** [To-Do App](https://kramprakash2005.github.io/To-Do-App/)
 
 ---
 
